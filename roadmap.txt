@@ -15,3 +15,4 @@
 12: git stash -m "stash name"
 13: git stash list
 14: git stash apply stash@{0}
+15: git push -f origin branchname 
