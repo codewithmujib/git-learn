@@ -1,0 +1,13 @@
+*Git & GitHub Pashto Course Roadmap: Yt channel @codewithmujib*
+
+git commands we have coverd
+1: git init
+2: git remote -v
+3: git remove add origin repo url
+4: git push -U main "creating main branch"
+5: git pull 
+6: git push
+7: git fetch
+8: git commit -m "commit message"
+9: git checkout branchname
+10: 
