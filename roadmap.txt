@@ -1,6 +1,6 @@
 *Git & GitHub Pashto Course Roadmap: Yt channel @codewithmujib*
 
-git commands we have coverd
+# git commands we have coverd in first video #
 1: git init
 2: git remote -v
 3: git remove add origin repo url
